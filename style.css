@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+}
+
+#banner{
+    flex:1;
+    font-size: 88px;
+    justify-content: center;
+    align-items: center;
+}
+#links{
+    flex: 1;
+}
