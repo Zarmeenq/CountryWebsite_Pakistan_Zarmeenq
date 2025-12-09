@@ -10,10 +10,20 @@
     background-image:url('pictures/banner2.jpeg');
 }
 
-nav{
-    flex: 1;
+
+nav a{
+      flex:1;
+      color:white;
+      background-color: rgb(15, 68, 15);
+      font-size:40px;
 }
 
 h1{
-    color:rgb(11, 44, 11)
+    color:rgb(255, 255, 255);
+    background-color: rgba(39, 71, 39, 0.5);
+}
+
+h2{
+    justify-content: center;
+    align-items: center;
 }
